@@ -1,0 +1,1 @@
+{"gpu": 0, "env": "warehouse-v0", "num_envs": 4, "seed": 0, "outdir": "results", "steps": 2000000, "eval_interval": 2000, "eval_n_runs": 20, "render": false, "demo": false, "load_pretrained": false, "load": "./results/20220107T012055.539331/best/", "log_level": 20, "monitor": false, "log_interval": 800, "update_interval": 512, "epochs": 16, "batch_size": 32}
