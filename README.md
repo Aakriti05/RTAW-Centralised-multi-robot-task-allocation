@@ -21,7 +21,7 @@
 	Training - 
 		...
 
-3. Code for 500/1000 robots and SIPP/CBS can be provided by author if asked. The code is similar to the above with changes in the robot/task number and navigation scheme respectively.
+3. Code for 500/1000 robots with ORCA can be provided by author if asked. The code is similar to the above with changes in the robot/task number and navigation scheme respectively.
 
 4. We have also provided the simple experiment code present in complex_task_10robots and complex_task_100robots.
 
