@@ -1,4 +1,4 @@
-# DC-MRTA
+# RTAW
 
 1. For 100 robots on 500 tasks for all 5 layout go into folder "complex_task_100rob_layout_newtask"
 	Testing - eg. for the Layout A
