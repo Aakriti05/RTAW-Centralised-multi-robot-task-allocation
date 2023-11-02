@@ -1,7 +1,6 @@
 # RTAW
 Code for the paper [RTAW: An Attention Inspired Reinforcement Learning Method for Multi-Robot Task Allocation in Warehouse Environments]([https://arxiv.org/abs/2310.08746](https://ieeexplore.ieee.org/abstract/document/10161310)). Accepted at ICRA 2023 Conference.
 
-
 # Instructions to run code
 
 1. For 100 robots on 500 tasks for all 5 layout go into folder "complex_task_100rob_layout_newtask"
@@ -30,7 +29,6 @@ Code for the paper [RTAW: An Attention Inspired Reinforcement Learning Method fo
 4. We have also provided the simple experiment code present in complex_task_10robots and complex_task_100robots.
 
 # Citation
-
 ```
 @INPROCEEDINGS{10161310,
   author={Agrawal, Aakriti and Bedi, Amrit Singh and Manocha, Dinesh},
