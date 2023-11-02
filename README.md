@@ -1,5 +1,5 @@
 # RTAW
-Code for the paper [RTAW: An Attention Inspired Reinforcement Learning Method for Multi-Robot Task Allocation in Warehouse Environments]([https://arxiv.org/abs/2310.08746](https://ieeexplore.ieee.org/abstract/document/10161310)). Accepted at ICRA 2023 Conference.
+Code for the paper [RTAW: An Attention Inspired Reinforcement Learning Method for Multi-Robot Task Allocation in Warehouse Environments](https://ieeexplore.ieee.org/abstract/document/10161310). Accepted at ICRA 2023 Conference.
 
 # Instructions to run code
 
